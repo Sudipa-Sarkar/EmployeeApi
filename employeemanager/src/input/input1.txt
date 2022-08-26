@@ -1,0 +1,35 @@
+{
+    "email":"sam123@gmail.com",
+    "imageUrl":"https://www.bootdey.com/img/Content/avatar/avatar1.png",
+    "jobTitle":"Developer",
+    "name":"Samuel Josh",
+    "phone":"12345678"
+}
+{
+    "email":"chris@gmail.com",
+    "imageUrl":"https://www.bootdey.com/app/webroot/img/Content/avatar/avatar2.png",
+    "jobTitle":"HR",
+    "name":"Chris Evans",
+    "phone":"1234567809"
+}
+{
+    "email":"sandra2657@gmail.com",
+    "imageUrl":"https://www.bootdey.com/app/webroot/img/Content/avatar/avatar3.png",
+    "jobTitle":"Data Scientist",
+    "name":"Sandra Fox",
+    "phone":"009989877"
+}
+{
+    "email":"tomholland@gmail.com",
+    "imageUrl":"https://www.bootdey.com/app/webroot/img/Content/avatar/avatar7.png",
+    "job title":"Senior Manager",
+    "name":"Tom Holland",
+    "phone":"1234567856"
+}
+{
+    "email":"zendya234@outlook.com",
+    "imageUrl":"https://www.bootdey.com/app/webroot/img/Content/avatar/avatar8.png",
+    "job title":"Developer",
+    "name":"Zendya Smith",
+    "phone":"09878677"
+}
